@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vrezhMik
 - 👀 I’m interested in electronics
 - 🌱 I’m currently learning Ai/ML
-- 📫 How to reach me on IG : <a href="https://www.instagram.com/vrezh_mik/">@vrezh_mik</a>
+- 📫 How to reach me on IG : <a href="https://www.instagram.com/vrezh_mik/" target="_blank">@vrezh_mik</a>
 
 <!---
 vrezhMik/vrezhMik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
