@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vrezhMik
+- 👋 Hi, I’m Vrezh Mikayelyan
 - 👀 I’m interested in electronics
 - 🌱 I’m currently learning AI/ML
 - 📫 How to reach me on IG : <a href="https://www.instagram.com/vrezh_mik/" target="_blank">@vrezh_mik</a>
