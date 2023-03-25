@@ -1,3 +1,4 @@
+# About me
 - 👋 Hi, I’m Vrezh Mikayelyan
 - 👀 I’m making robots
 - 🌱 I’m currently learning AI
@@ -8,4 +9,5 @@
 vrezhMik/vrezhMik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![vue-logo](https://user-images.githubusercontent.com/38406975/227729188-0f8a16c0-8551-4fe8-82f9-2d60037acbf2.png =150x150)
+# My Stack
+<img src="https://user-images.githubusercontent.com/38406975/227729188-0f8a16c0-8551-4fe8-82f9-2d60037acbf2.png" width="50">
