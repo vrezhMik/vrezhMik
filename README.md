@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.djangoproject.com/"style="margin-right:10px"><img src="https://user-images.githubusercontent.com/38406975/227729836-c782787d-3317-4560-bc1e-a7219a2446a8.png" width="50" ></a>
 <a href="https://devdocs.io/c/"style="margin-right:10px"><img src="https://user-images.githubusercontent.com/38406975/227729896-009c0ab0-b4ed-42b7-a028-465e702fc921.png" width="50" ></a>
 <a href="https://cplusplus.com/"style="margin-right:10px"><img src="https://user-images.githubusercontent.com/38406975/227729863-7962589e-2faf-408e-b81c-480d35fb99c2.png" width="45" ></a>
-<a href="https://www.assemblyglobal.com/"style="margin-right:10px"><img src="https://user-images.githubusercontent.com/38406975/227730001-cb94f504-042f-4dad-84a0-0785c2cb682e.png" width="60" ></a>
+<a href="https://docs.oracle.com/cd/E19253-01/817-5477/817-5477.pdf"style="margin-right:10px"><img src="https://user-images.githubusercontent.com/38406975/227730001-cb94f504-042f-4dad-84a0-0785c2cb682e.png" width="60" ></a>
 <a href="https://www.raspberrypi.org/"style="margin-right:10px"><img src="https://user-images.githubusercontent.com/38406975/227730099-f38c96b7-b2e5-4e0d-bbd5-1197a95a7592.svg" width="40" ></a>
 <a href="https://arduino.cc/"style="margin-right:10px"><img src="https://user-images.githubusercontent.com/38406975/227730248-ac294218-c2ee-4f16-baf6-392d75097424.png" width="40" ></a>
 <a href="https://www.linux.org/"style="margin-right:10px"><img src="https://user-images.githubusercontent.com/38406975/227730329-aed4b417-cbb8-43a9-986f-1345fcb2a58c.png" width="40" ></a>
