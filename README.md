@@ -27,3 +27,4 @@ You can click the Preview link to take a look at your changes.
 <a href="https://arduino.cc/"style="margin-right:10px"><img src="https://user-images.githubusercontent.com/38406975/227730248-ac294218-c2ee-4f16-baf6-392d75097424.png" width="40" ></a>
 <a href="https://www.linux.org/"style="margin-right:10px"><img src="https://user-images.githubusercontent.com/38406975/227730329-aed4b417-cbb8-43a9-986f-1345fcb2a58c.png" width="40" ></a>
 </div>
+![vrej 1](https://github.com/vrezhMik/vrezhMik/assets/38406975/9e2950d0-2652-4a76-9115-57885d7fda1d)
