@@ -9,10 +9,12 @@
 vrezhMik/vrezhMik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<img src='https://github.com/vrezhMik/vrezhMik/assets/38406975/9e2950d0-2652-4a76-9115-57885d7fda1d' >
+<br>
+<br>
 
 # My Stack
-<div align="center">
+<div>
 <a href="https://vuejs.org/" style="margin-right:10px"><img src="https://user-images.githubusercontent.com/38406975/227729188-0f8a16c0-8551-4fe8-82f9-2d60037acbf2.png" width="50"></a>
 <a href="https://www.javascript.com/"style="margin-right:10px"><img src="https://user-images.githubusercontent.com/38406975/227729407-2d6ab955-bad2-4f32-8c84-58a33f2b7e5d.png" width="50" ></a>
 <a href="https://nuxtjs.org/"style="margin-right:10px"><img src="https://user-images.githubusercontent.com/38406975/227729534-3f133b0f-526e-4fcd-a0d6-12552d930c2e.png" width="50" ></a>
@@ -27,4 +29,3 @@ You can click the Preview link to take a look at your changes.
 <a href="https://arduino.cc/"style="margin-right:10px"><img src="https://user-images.githubusercontent.com/38406975/227730248-ac294218-c2ee-4f16-baf6-392d75097424.png" width="40" ></a>
 <a href="https://www.linux.org/"style="margin-right:10px"><img src="https://user-images.githubusercontent.com/38406975/227730329-aed4b417-cbb8-43a9-986f-1345fcb2a58c.png" width="40" ></a>
 </div>
-![vrej 1](https://github.com/vrezhMik/vrezhMik/assets/38406975/9e2950d0-2652-4a76-9115-57885d7fda1d)
