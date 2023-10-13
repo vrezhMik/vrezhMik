@@ -9,7 +9,8 @@
 vrezhMik/vrezhMik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src='https://github.com/vrezhMik/vrezhMik/assets/38406975/9e2950d0-2652-4a76-9115-57885d7fda1d' >
+<img src='https://github.com/vrezhMik/vrezhMik/assets/38406975/7ed38385-6f06-4a9f-97e6-721e47dea2b9' >
+
 <br>
 <br>
 
