@@ -11,8 +11,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <img src='https://github.com/vrezhMik/vrezhMik/assets/38406975/7ed38385-6f06-4a9f-97e6-721e47dea2b9' >
 
-<br>
-<br>
 
 # My Stack
 <div>
