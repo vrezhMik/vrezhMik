@@ -17,5 +17,4 @@ I am currently working on Tumo International and Local Websites<br>I am learning
 
 [![](https://visitcount.itsvg.in/api?id=vrezhMikTumo&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
